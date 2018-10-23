@@ -34,7 +34,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.indooratlas.android:indooratlas-android-sdk:2.8.0@aar'
+    compile 'com.indooratlas.android:indooratlas-android-sdk:2.8.3@aar'
     compile 'com.facebook.react:react-native:+'
 }
   
